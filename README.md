@@ -4,6 +4,12 @@ StockIQ is an AI-powered stock research and analysis application built using Cre
 
 The application combines historical market information, price movements, trading volume, and volatility with AI-generated insights in an interactive dashboard.
 
+## 🌐 Live Demo
+
+**Try StockIQ here:** [Launch StockIQ AI Stock Analyzer](https://multiagent-stock-analyzer-jsp9sdggmrfmjtqudxmm8q.streamlit.app/)
+
+Explore the interactive dashboard, view historical stock prices and trading volume, and generate AI-powered stock analysis reports.
+
 ## Features
 
 - **AI Stock Analysis:** An Analyst agent evaluates available stock market data.
