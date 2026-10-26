@@ -1,0 +1,7 @@
+
+streamlit
+crewai==1.15.28
+litellm==1.105.1
+yfinance
+pandas
+python-dotenv
